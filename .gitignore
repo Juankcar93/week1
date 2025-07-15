@@ -28,6 +28,10 @@ coverage
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
+# SQLite database (optional, if you don't want to version it)
+*.sqlite
+*.db
+
 # Bower dependency directory (https://bower.io/)
 bower_components
 
